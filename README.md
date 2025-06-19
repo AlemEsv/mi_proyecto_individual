@@ -5,7 +5,7 @@ Código: 20220277F
 
 Link al repositorio: <https://github.com/AldoLunaBueno/pc3-grupo4-tema3>
 
-Fui encargado de hacer la lógica inicial de los módulos de terraform e implementé el script que genera la documentación por modulo.
+Fui encargado de hacer la lógica inicial de los módulos de terraform, más en concreto la lógica total de los módulos **Singleton** y **Prototype** e hice la implementación de los scripts `generate_documentation.py`, `verify_ia_docs.py` y `main.sh`.
 
 ## Instrucciones de instalación
 
